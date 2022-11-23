@@ -1,30 +1,9 @@
 # DockAnsible
 simulation of an Ansible environment using Docker Containers
 
-.
-├── base
-│   └── Dockerfile
-├── docker-compose.yml
-├── host
-│   ├── Dockerfile
-│   └── run.sh
-├── master
-│   ├── ansible
-│   │   ├── install_php.yml
-│   │   └── inventory
-│   └── Dockerfile
-├── portainer-data_2
-│   ├── bin  [error opening dir]
-│   ├── certs  [error opening dir]
-│   ├── compose  [error opening dir]
-│   ├── docker_config  [error opening dir]
-│   ├── portainer.db
-│   ├── portainer.key
-│   ├── portainer.pub
-│   └── tls  [error opening dir]
-└── README.md
 
-10 directories, 11 files
+![image](https://user-images.githubusercontent.com/108732943/203650459-fd84d8f4-153a-4b10-aef8-6055551539fc.png)
+
 
 
 
